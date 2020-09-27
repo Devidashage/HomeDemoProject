@@ -1,0 +1,10 @@
+ Volume in drive D is software
+ Volume Serial Number is C2B9-976E
+
+ Directory of D:\GitDemo
+
+14/01/2020  07:33 PM    <DIR>          .
+14/01/2020  07:33 PM    <DIR>          ..
+14/01/2020  07:33 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  70,550,700,032 bytes free
